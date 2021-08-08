@@ -5,7 +5,6 @@
 Simulation of Graph Algorithms animatively
 
 Team Members:
-USN 	        Name 	        College
 1BY18CS125 	ROOBINI G 	BMSIT
 1BY18CS134 	SAI SPARSHA E 	BMSIT
 
