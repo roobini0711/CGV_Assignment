@@ -1,7 +1,6 @@
 
-# VTU 6th sem CSE (2021) Computer graphics mini project using OpenGL with CodeBlocks
+# VTU 6th sem CSE (2021) Computer graphics mini project using OpenGL with CodeBlocks, CGV_Assignment
 
-# CGV_Assignment
 Simulation of Graph Algorithms animatively
 
 Team Members:
