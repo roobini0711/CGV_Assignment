@@ -5,9 +5,10 @@
 Simulation of Graph Algorithms animatively
 
 Team Members:
-USN 	Name 	College
+USN 	        Name 	        College
 1BY18CS125 	ROOBINI G 	BMSIT
 1BY18CS134 	SAI SPARSHA E 	BMSIT
+
 Introduction :
 
 This is a simulation of Dikjstraw's algorithm where the algorithm is shown animatively how it works and how it finds the shortest path between the nodes in the given graph.
